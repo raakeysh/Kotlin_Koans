@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestNamedArguments" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-02T15:03:34" hostname="MYLAPTOP" time="0.047">
+  <properties/>
+  <testcase name="testJoinToString" classname="TestNamedArguments" time="0.047"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
